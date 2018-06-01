@@ -52,7 +52,7 @@ if($_POST)
 	\*------------------------------------*/
 
 	//Recipient email, Replace with own email here
-	$to_email = "mail@example.com";
+	$to_email = "yontymanor@gmail.com";
 
 	//email headers
 	$headers  = "Content-type: text/html; charset=utf-8" . "\r\n";

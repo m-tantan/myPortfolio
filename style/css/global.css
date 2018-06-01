@@ -1072,6 +1072,9 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
 .experience__icon--foundation {
   background-image: url("../img/exp/exp_foundation-glasses.svg");
 }
+.experience__icon--cpp_logo {
+  background-image: url("../img/exp/cpp_logo.png");
+}
 
 .experience__icon-description {
   display: block;
